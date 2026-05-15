@@ -1,10 +1,10 @@
 ## Software Developer & Data Science Enthusiast
 
-I am a versatile Software Developer and Data Science enthusiast. I am passionate about building impactful, data-driven applications. My work spans full-stack web development, artificial intelligence, and software engineering.
+I am a versatile Software Developer and Data Science enthusiast passionate about building impactful, data-driven applications. My work spans full-stack web development, artificial intelligence, and software engineering.
 
 I have engineered complex solutions such as an AI-powered transport emission disclosure platform tailored for Kenyan institutions, and comprehensive full-stack e-commerce platforms using the MERN stack. Additionally, my portfolio includes designing interactive Java-based desktop systems and generating custom datasets for machine learning applications like fraud detection.
 
-Whether I am architecting scalable backends, developing intuitive user interfaces, or exploring machine learning models in Python, I stay focused on solving real-world challenges. I do this through clean, efficient code.
+Whether I am architecting scalable backends, developing intuitive user interfaces, or exploring machine learning models in Python, I stay focused on solving real-world challenges through clean, efficient code.
 
 ## Tech Stack Summary
 
